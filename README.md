@@ -1,0 +1,2 @@
+# AI-Powered-Real-Time-Exam-Invigilation-Support-System-Using-YOLO-and-Byte-Track
+Cheating during examinations threatens the integrity of educational assessments. Our project presents a Real-Time Exam Invigilation System that uses advanced computer vision to enhance surveillance in exam halls. The YOLO (You Only Look Once) algorithm detects candidates, invigilators, and suspicious objects like mobile phones or notes.
